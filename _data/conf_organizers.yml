@@ -1,3 +1,34 @@
+- name: Genoveva Vargas Solar
+  photo: genoveva.jpg
+  web: http://vargas-solar.com/
+  info: "D&I chair for <b>EDBT 2022</b>"
+- name: Renata Borovica-Gajic
+  photo: renata.jpg
+  web: http://renata.borovica-gajic.com/
+  info: "D&I Co-Chair for <b>SIGMOD 2022</b>"
+- name: Pinar Tozun
+  photo: pinar.jpg
+  web: http://www.pinartozun.com/
+  info: "D&I Co-Chair for <b>SIGMOD 2022</b>"
+- name: Jerome Darmont
+  photo: jerome.jpg
+  web: https://eric.univ-lyon2.fr/jdarmont/
+  info: "D&I Co-Chair for <b>ADBIS 2022</b>"
+- name: Alekh Jindal
+  photo: alekhjindal.png
+  web: https://www.microsoft.com/en-us/research/people/aljindal/
+  info: "D&I Co-Chair for <b>CIDR 2022</b>"
+- name: Yuanyuan Tian
+  photo: ytian.jpg
+  web: https://humming80.github.io
+  info: "D&I Co-Chair for <b>CIDR 2022</b>"
+- name: Shazia Sadiq
+  photo: shazia.JPG
+  web: https://researchers.uq.edu.au/researcher/792
+  info: "D&I Co-Chair for <b>VLDB 2022</b>"
+- name: Gillian Dobbie
+  photo: Gill.jpg
+  web: https://www.science.auckland.ac.nz/people/profile/g-dobbie
 - name: Avrilia Floratou
   photo: avrilia.jpg
   web: https://www.microsoft.com/en-us/research/people/avflor/
@@ -30,10 +61,7 @@
   photo: panos.jpg
   web: https://panos.cs.pitt.edu/
   info: "D&I chair for <b>EDBT 2021/2022</b> and <b>MDM 2021/2022</b>"
-- name: Genoveva Vargas Solar
-  photo: genoveva.jpg
-  web: http://vargas-solar.com/
-  info: "D&I chair for <b>EDBT 2022</b>"
+  info: "D&I Co-Chair for <b>VLDB 2022</b>"
 - name: Vana Kalogeraki
   photo: vana.jpg
   web: http://www2.cs.aueb.gr/~vana/
@@ -42,31 +70,3 @@
   photo: wenny.jpg
   web: https://scholars.latrobe.edu.au/jwrahayu
   info: "D&I chair for <b>WISE 2021</b>" 
-- name: Renata Borovica-Gajic
-  photo: renata.jpg
-  web: http://renata.borovica-gajic.com/
-  info: "D&I Co-Chair for <b>SIGMOD 2022</b>"
-- name: Pinar Tozun
-  photo: pinar.jpg
-  web: http://www.pinartozun.com/
-  info: "D&I Co-Chair for <b>SIGMOD 2022</b>"
-- name: Jerome Darmont
-  photo: jerome.jpg
-  web: https://eric.univ-lyon2.fr/jdarmont/
-  info: "D&I Co-Chair for <b>ADBIS 2022</b>"
-- name: Alekh Jindal
-  photo: alekhjindal.png
-  web: https://www.microsoft.com/en-us/research/people/aljindal/
-  info: "D&I Co-Chair for <b>CIDR 2022</b>"
-- name: Yuanyuan Tian
-  photo: ytian.jpg
-  web: https://humming80.github.io
-  info: "D&I Co-Chair for <b>CIDR 2022</b>"
-- name: Shazia Sadiq
-  photo: shazia.JPG
-  web: https://researchers.uq.edu.au/researcher/792
-  info: "D&I Co-Chair for <b>VLDB 2022</b>"
-- name: Gillian Dobbie
-  photo: Gill.jpg
-  web: https://www.science.auckland.ac.nz/people/profile/g-dobbie
-  info: "D&I Co-Chair for <b>VLDB 2022</b>"
