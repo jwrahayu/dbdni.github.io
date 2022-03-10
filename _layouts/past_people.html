@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+
+<h4 id="core_members">Past Members</h4>
+{% assign number_printed = 0 %}
+{% for member in site.data.past_members %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/people/{{ member.photo }}" class="img-responsive" width="25%"
+   style="float: left; padding-right: 10px; margin-bottom:50px" />
+  <h5 style="margin-bottom:-1px"><a href="{{member.web}}">{{ member.name }}</a></h5>
+  <h5 style="margin-bottom:-1px">{{ member.year }}</h5>
+  <p align="justify">{{ member.info }}</p>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
