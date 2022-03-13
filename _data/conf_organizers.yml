@@ -1,7 +1,15 @@
 - name: Genoveva Vargas Solar
   photo: genoveva.jpg
   web: http://vargas-solar.com/
-  info: "D&I chair for <b>EDBT 2022</b>"
+  info: "D&I chair for <b>EDBT/ICDT 2022-23</b>"
+- name: Panos K. Chrysanthis
+  photo: panos.jpg
+  web: https://panos.cs.pitt.edu/
+  info: "D&I chair for <b>EDBT/ICDT 2022-23</b>, <b>DEBS 2022</b>, and <b>MDM 2021-22</b>"  
+- name: Vana Kalogeraki
+  photo: vana.jpg
+  web: http://www2.cs.aueb.gr/~vana/
+  info: "D&I chair for <b>DEBS 2022</b> and <b>MDM 2021-22</b>"
 - name: Renata Borovica-Gajic
   photo: renata.jpg
   web: http://renata.borovica-gajic.com/
